@@ -1,5 +1,4 @@
 [project]
-name = "pylinoff"
+name = "pylioff"
 version = "1.0.0a"
-
-#[dependencies]
+dependencies = ["rebo @ git+https://git@github.com/close2code-palm/linpyboot.git"]
